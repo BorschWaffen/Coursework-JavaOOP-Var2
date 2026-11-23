@@ -1,0 +1,11 @@
+classpath:C:\Users\Admin\.m2\repository\org\openjfx\javafx-controls\21.0.4\javafx-controls-21.0.4.jar	306:1795419925729
+classpath:C:\Users\Admin\.m2\repository\org\openjfx\javafx-controls\21.0.4\javafx-controls-21.0.4-win.jar	2585128:1795419926206
+classpath:C:\Users\Admin\.m2\repository\org\openjfx\javafx-graphics\21.0.4\javafx-graphics-21.0.4.jar	306:1795419925658
+classpath:C:\Users\Admin\.m2\repository\org\openjfx\javafx-graphics\21.0.4\javafx-graphics-21.0.4-win.jar	5941675:1795419926825
+classpath:C:\Users\Admin\.m2\repository\org\openjfx\javafx-base\21.0.4\javafx-base-21.0.4.jar	302:1795419925755
+classpath:C:\Users\Admin\.m2\repository\org\openjfx\javafx-base\21.0.4\javafx-base-21.0.4-win.jar	753983:1795419925966
+classpath:C:\Users\Admin\.m2\repository\org\postgresql\postgresql\42.7.3\postgresql-42.7.3.jar	1089312:1795417382287
+classpath:C:\Users\Admin\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.17.2\jackson-databind-2.17.2.jar	1649454:1795422892471
+classpath:C:\Users\Admin\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.17.2\jackson-annotations-2.17.2.jar	78492:1795422892135
+classpath:C:\Users\Admin\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.17.2\jackson-core-2.17.2.jar	581927:1795422892297
+classpath:C:\Users\Admin\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.17.2\jackson-datatype-jsr310-2.17.2.jar	132264:1795422892298
