@@ -1,0 +1,10 @@
+ua\edu\sumdu\cs\coursework\ui\CourseworkApp.class
+ua\edu\sumdu\cs\coursework\dao\HrRepository.class
+ua\edu\sumdu\cs\coursework\exception\HrValidationException.class
+ua\edu\sumdu\cs\coursework\db\DatabaseConfig.class
+ua\edu\sumdu\cs\coursework\exception\HrDatabaseException.class
+ua\edu\sumdu\cs\coursework\service\HrAnalyticsService.class
+ua\edu\sumdu\cs\coursework\model\Department.class
+ua\edu\sumdu\cs\coursework\io\JsonBackupService$HrDataSnapshot.class
+ua\edu\sumdu\cs\coursework\io\JsonBackupService.class
+ua\edu\sumdu\cs\coursework\model\Employee.class
